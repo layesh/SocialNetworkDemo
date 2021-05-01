@@ -9,13 +9,13 @@ Create a virtual environment using
 py -m venv venv
 ```
 
-avtivate venv using
+activate venv using
 
 ```
 venv\Scripts\activate
 ```
 
-Install required packages with the follwing command
+Install required packages with the following command
 
 ```
 pip install -r requirements.txt
